@@ -1,0 +1,11 @@
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\SchoolSite\SchoolSite\bin\SchoolSite.dll
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\SchoolSite\SchoolSite\bin\SchoolSite.pdb
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\SchoolSite\SchoolSite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\SchoolSite\SchoolSite\obj\Debug\SchoolSite.dll
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\SchoolSite\SchoolSite\obj\Debug\SchoolSite.pdb
+F:\B\Projects\SchoolSite\SchoolSite\bin\SchoolSite.dll.config
+F:\B\Projects\SchoolSite\SchoolSite\bin\SchoolSite.dll
+F:\B\Projects\SchoolSite\SchoolSite\bin\SchoolSite.pdb
+F:\B\Projects\SchoolSite\SchoolSite\obj\Debug\SchoolSite.csprojResolveAssemblyReference.cache
+F:\B\Projects\SchoolSite\SchoolSite\obj\Debug\SchoolSite.dll
+F:\B\Projects\SchoolSite\SchoolSite\obj\Debug\SchoolSite.pdb
